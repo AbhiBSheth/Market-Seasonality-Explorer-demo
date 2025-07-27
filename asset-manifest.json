@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/Market-Seasonality-Explorer-demo/static/css/main.0a92663e.css",
+    "main.js": "/Market-Seasonality-Explorer-demo/static/js/main.f212edaf.js",
+    "static/js/453.0f3e6be6.chunk.js": "/Market-Seasonality-Explorer-demo/static/js/453.0f3e6be6.chunk.js",
+    "index.html": "/Market-Seasonality-Explorer-demo/index.html",
+    "main.0a92663e.css.map": "/Market-Seasonality-Explorer-demo/static/css/main.0a92663e.css.map",
+    "main.f212edaf.js.map": "/Market-Seasonality-Explorer-demo/static/js/main.f212edaf.js.map",
+    "453.0f3e6be6.chunk.js.map": "/Market-Seasonality-Explorer-demo/static/js/453.0f3e6be6.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.0a92663e.css",
+    "static/js/main.f212edaf.js"
+  ]
+}
